@@ -18,7 +18,7 @@ This project is a PHP port of the popular [Slate](https://github.com/tripit/slat
 
 Check out a Documentarian [example API documentation](http://marcelpociot.de/whiteboard/).
 
-The documentation is available at [http://marcelpociot.com/documentarian/installation](http://marcelpociot.de/documentarian/installation)
+The documentation is available at [http://marcelpociot.de/documentarian/installation](http://marcelpociot.de/documentarian/installation)
 
 
 ### Slate / Whiteboard compatibility
